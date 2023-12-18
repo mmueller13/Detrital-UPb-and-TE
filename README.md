@@ -1,4 +1,4 @@
-# Detrital-PbCorrections-and-TREEs
+# Detrital-UPb-and-TE
 Jupyter notebooks for U-Pb timeseries, detrital common Pb corrections, U-Pb plotter, rutile trace element visualization, trace element PCA
 
 ### <br> 1. UPb-Timeseries
