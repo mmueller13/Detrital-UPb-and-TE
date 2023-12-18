@@ -29,4 +29,8 @@ Example data given in: ExampleData-RutileTraceElements-Muelleretal.xlsx.
 ### <br> 5. Detrital-PCA-R
 R code for performing principal component analysis on trace element geochemistry data. To run the R code in a jupyter notebook, R must be installed on the local computer.
 
-Example data given in: ExampleData-RutileTraceElements-Muelleretal.xlsx
+Example data given in: ExampleData-RutileTraceElements-Muelleretal.xlsx <br> 
+<br> 
+
+#### <br> If you have found this code useful, please cite the accompanying article under consideration in Geochronology:
+ Mueller et al., https://doi.org/10.5194/egusphere-2023-1293
