@@ -23,7 +23,7 @@ Example data given in: ExampleData-UPbPlotter-Muelleretal.xlsx
 Python code for visualizing detrital rutile trace element geochemistry data, including TiO2 polymorphs, mafic and pelitic protoliths, Zr-in-rutile temperature, and exploration of low U contents and concordance. Uses data output from UPb-Plotter (which itself uses data output from Detrital-Common-Pb-Corrections).
 
 Example data given in: ExampleData-RutileTraceElements-Muelleretal.xlsx. 
-<br> Example data can be displayed with the Triebold et al., (2011, Contrib Mineral Petrol) TiO2 polymorphs dataset: Triebold_etal_2011_Data.xlsx
+<br> Example data can be displayed with the Triebold et al. (2011, Contrib Mineral Petrol) TiO2 polymorphs dataset: Triebold_etal_2011_Data.xlsx
 
 
 ### <br> 5. Detrital-PCA-R
@@ -32,5 +32,5 @@ R code for performing principal component analysis on trace element geochemistry
 Example data given in: ExampleData-RutileTraceElements-Muelleretal.xlsx <br> 
 <br> 
 
-#### <br> If you have found this code useful, please cite the accompanying article under consideration in Geochronology:
+#### <br> If you have found this code useful, please cite the accompanying article under consideration in *Geochronology*:
  Mueller et al., https://doi.org/10.5194/egusphere-2023-1293
