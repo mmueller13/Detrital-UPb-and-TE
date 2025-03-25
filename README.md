@@ -33,4 +33,4 @@ Example data given in: ExampleData-RutileTraceElements-Muelleretal.xlsx <br>
 <br> 
 
 #### <br> If you have found this code useful, please cite the accompanying article published in *Geochronology*:
- Mueller et al., [https://doi.org/10.5194/egusphere-2023-1293](https://doi.org/10.5194/gchron-6-265-2024)
+ Mueller et al., 2024, [https://doi.org/10.5194/gchron-6-265-2024](https://doi.org/10.5194/gchron-6-265-2024)
